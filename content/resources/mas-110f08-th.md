@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "MusicPainter\_is a networked graphical composing environment which aims\
     \ to encourage sharing and collaboration between users.\_ It is used in class\
-    \ [assignment](pages/assignments) #3 with the XO Laptop and csound. (Courtesy\
-    \ of Wu-Hsi Li. Used with permission.)"
+    \ [assignment](/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/pages/assignments/_index)\
+    \ #3 with the XO Laptop and csound. (Courtesy of Wu-Hsi Li. Used with permission.)"
   credit: ''
   image-alt: MusicPainter screenshot.
 learning_resource_types: []
