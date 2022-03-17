@@ -21,7 +21,7 @@ Description
 
 MusicPainter is a networked graphical composing environment which aims to encourage sharing and collaboration between users. It has an easy-to-use composing interface, which turns music score into colorful painting. It guides the users to begin composing by creating mini-composition such as a melody or rhythm pattern, which we called musical brick. These bricks are collected and organized as a shared composing resource, which becomes a dynamic source of inspiration. The users can also browse and hack music pieces composed by others through the music browser. MusicPainter is not only a composing interface, it provides an environment where users can gather and learn how to compose from each other. It creates a place where different musical perspectives collide.
 
-{{< resource cbdcedee-0122-e8cf-b47f-990685950929 "Music painter" >}}
+{{< resource "cbdcedee-0122-e8cf-b47f-990685950929" >}}
 
 For more background, see this [MusicPainter introduction page](http://web.media.mit.edu/~wuhsi/Musicpainter_en.html).
 
