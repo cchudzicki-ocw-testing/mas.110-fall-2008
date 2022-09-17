@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on exercises and essays, and the final
+  project assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required books for the course along
+  with the schedule of reading assignments by lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
